@@ -1,4 +1,4 @@
-BASE_DIR=/etc/xiaoya
+BASE_DIR=/volume1/docker/xiaoya-tvbox
 TAG="hostmode"
 UPDATE=false
 MOUNT=""
